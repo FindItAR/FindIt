@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/HoloToolKit/SpatialMapping/Tests/Scenes/TapToPlace.unity
+    guid: 32158570e4a9d7c41951fa162ca19597
+  - enabled: 1
+    path: Assets/Scenes/menuScene.unity
+    guid: ff7255392d062ec4d9d51ac0adae7624
+  - enabled: 1
+    path: Assets/Scenes/mainScene.unity
+    guid: e583f3b1d4dd30e47a85bfe1562e3adb
+  - enabled: 1
+    path: Assets/Scenes/resultScene.unity
+    guid: c4c633cb151209642abfbea9afad5d39
+  - enabled: 1
+    path: Assets/Scenes/quizScene1.unity
+    guid: e011d8c697b674b4c9d4d28a050b235e
+  - enabled: 1
+    path: Assets/Scenes/endQuizScene.unity
+    guid: 1772910928bbc044a9a5a8ae022408f6
